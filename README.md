@@ -1,1 +1,9 @@
 # CS-370-J7910-Current-Emerging-Trends-TreasureHunt
+
+In the treasure hunt game, we were given a solid foundation of the program to build a Deep Q-learning algorithm. The foundation provided to us built out the environment, neural network, and agent. Pseudocode was also provided to us to use as a reference when building our algorithms. In this algorithm, I developed code to determine the agent's action using exploration and exploitation, collected data such as the state, reward, and game status and stored it within episodes, trained the model to increase accuracy, and evaluated loss. 
+
+Computer scientists develop projects to solve real-world problems. They serve to create technology that provides efficiency and aid in any task. This is important because with new technology we have more time to allocate our attention to other items. This is the process of advancing as a community and building our skill set to drive new discoveries. 
+
+As a computer scientist, I can approach a problem through a series of steps. First I would identify the problem, research and collect data regarding the topic, design a solution, build the solution, and then improve the project based on further evaluation. 
+
+There are ethical responsibilities that a developer has to take into account when building a project. There have been concerns in the past regarding the training data sets that AI systems are built off of. They tend to be biased and when implemented can exclude or harm people of certain races, gender, and sexual orientation. This is commonly seen in technology such as facial recognition, resume screening, and AI chatbots. While training data sets can be of concern, the overall design of the technology should be considered. It is important to ensure that the program is accurate enough to make a fair and unbiased decision. 
